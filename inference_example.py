@@ -62,12 +62,4 @@ scores = torch.exp(softmax(scores))
 npscores = scores[:,1].detach().numpy()
 df = pd.DataFrame({'AA':binder_aa_list, 'Binder Prob': npscores, 'Source': binder_name,'Target':target_name})
 
-df.to_csv('./'+target_name+'_'+binder_name+'_prediction_unordered.csv')
-df = df.sort_values('Binder Prob',ascending=False)
-df = df[['Binder Prob', 'Source']]
 df.to_csv('./'+target_name+'_'+binder_name+'_prediction.csv')
-
-
-a = {'ID': '2AJF', 'predicted':npscores, 'true':npscores*0, 'derived_sequence':binder_seq, 'ref_sequence':binder_seq}
-with open('/peptides/protein_peptide/model_fullprotein/test_outputs/2AJF.pickle', 'wb') as handle:
-    pickle.dump(a, handle, protocol=0)
