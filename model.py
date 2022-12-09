@@ -61,7 +61,7 @@ class SALTnPEPPR(pl.LightningModule):
         super().__init__()
         self.config = config
         self.sigmoid = nn.Sigmoid()
-        self.val_AUC = torchmetrics.AUROC(num_classes=2)
+        self.val_AUC = torchmetrics.AUROC(task="binary")
 
         self.esm_transformer, _ = esm.pretrained.esm2_t33_650M_UR50D() # load pretrained ESM2
 
