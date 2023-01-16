@@ -10,4 +10,5 @@ Targeted protein degradation of pathogenic proteins represents a powerful new tr
 We have developed a user-friendly [Colab notebook](https://colab.research.google.com/drive/1g-WBPi8_eWqUdD-BWHdPWLIQ8I9V3Log?usp=sharing) for peptide generation with SaLT&PepPr!
 
 Authors: Garyk Brixi, Sophie Vincoff, and Pranam Chatterjee
+
 Contact: pranam.chatterjee@duke.edu
