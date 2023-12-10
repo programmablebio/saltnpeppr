@@ -8,6 +8,6 @@ Targeted protein degradation of pathogenic proteins represents a powerful new tr
 
 Please read and cite our [manuscript](https://www.nature.com/articles/s42003-023-05464-z) published in *Communications Biology*!
 
-All manuscript data is available on [Zenodo](https://zenodo.org/records/10008581). 
+All manuscript data and code, as indicated in the Code Availability statement in the manuscript, is available on [Zenodo](https://zenodo.org/records/10008581). 
 
-Code availability and data are available upon request at the moment! Please contact pranam.chatterjee@duke.edu.  
+Additional code and data information can be obtained by contacting pranam.chatterjee@duke.edu.  
