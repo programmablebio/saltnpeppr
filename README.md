@@ -10,4 +10,4 @@ Please read and cite our [manuscript](https://www.nature.com/articles/s42003-023
 
 All manuscript data/pipelines, as required/indicated in the manuscript Availability statements, are available on [Zenodo](https://zenodo.org/records/10008581) and in the .zip file within this repo.
 
-Information about code and data can be obtained by contacting pranam.chatterjee@duke.edu.  
+Please find training and inference code on [HuggingFace](https://huggingface.co/ubiquitx/saltnpeppr)!  
