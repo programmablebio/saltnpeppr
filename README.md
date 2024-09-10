@@ -10,4 +10,4 @@ Please read and cite our [manuscript](https://www.nature.com/articles/s42003-023
 
 All manuscript data/pipelines, as required/indicated in the manuscript Availability statements, are available on [Zenodo](https://zenodo.org/records/10008581) and in the .zip file within this repo.
 
-You can now access the model, training, and inference code on [HuggingFace] (https://huggingface.co/ubiquitx/saltnpeppr) after signing the [UbiquiTx License](https://drive.google.com/file/d/1qyhrN2dIk4M-e8pAcdh8WkZmgei_TlGE/view?usp=sharing).
+You can now access the model, training, and inference code on [HuggingFace](https://huggingface.co/ubiquitx/saltnpeppr) after signing the [UbiquiTx License](https://drive.google.com/file/d/1qyhrN2dIk4M-e8pAcdh8WkZmgei_TlGE/view?usp=sharing).
